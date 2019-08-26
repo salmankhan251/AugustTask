@@ -1,0 +1,36 @@
+{
+  "name": "ausgutTask",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.15.0",
+    "react": "^16.6.3",
+    "react-bootstrap": "^1.0.0-beta.11",
+    "react-dom": "^16.6.3",
+    "react-redux": "^5.1.1",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "redux": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmankhan251/Task.git"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "json:server": "json-server --watch api/db.json",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "homepage": "https://github.com/salmankhan251/Task"
+}

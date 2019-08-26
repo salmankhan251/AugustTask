@@ -1,0 +1,77 @@
+.sideBarClass a {
+    text-decoration: none;
+    font-size: 25px;
+    color: papayawhip ;
+    display:block;
+}
+
+.sideBarClass a:hover {
+    color: whitesmoke;
+}
+.modal-body {
+    position: relative;
+    padding: 0 20px;}
+
+.span.prefix, label.prefix {
+    background: #f2f2f2;
+    border-right: none;
+    color: #333333;
+    border-color: #cccccc;
+}
+
+.prefix, .postfix {
+    display: block;
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    width: 100%;
+    padding-top: 0;
+    padding-bottom: 0;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    font-size: 0.875rem;
+    height: 2.3125rem;
+    line-height: 2.3125rem;
+}
+
+.card-row {
+    margin-bottom: 15px;
+}
+
+.gateway-row {
+    width: 95%;
+}
+
+.recurring-check {
+    text-align: center;
+}
+
+.no-payment {
+    color: #cf2a0e;
+    font-size: 14px;
+}
+
+.subscription-content {
+    padding: 15px 100px;
+    text-align: center;
+}
+
+
+[id="agent"] {
+    top: 65px;
+    width: 100%;
+}
+
+.is-private input {
+    margin-right: 5px;
+    margin-left: 0;
+}
+
+.inactive {
+    display: none;
+}
+.custom-tunnel {
+    margin-top: -12px;
+    margin-bottom: 10px;
+}

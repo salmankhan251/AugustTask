@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "abc",
+      "lastname": "xyz",
+      "email": "abc@gamil.com"
+    },
+    {
+      "id": "2",
+      "firstname": "def",
+      "lastname": "uvw",
+      "email": "def@gamil.com"
+    },
+    {
+      "id": "3",
+      "firstname": "ghi",
+      "lastname": "rst",
+      "email": "ghi@gamil.com"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "firstname": "abccompany",
+      "lastname": "xyzcomanay",
+      "email": "abc@gamil.com"
+    },
+    {
+      "id": "2",
+      "firstname": "defcompany",
+      "lastname": "uvwcompany",
+      "email": "def@gamil.com"
+    },
+    {
+      "id": "3",
+      "firstname": "ghicompany",
+      "lastname": "rstcompany",
+      "email": "ghi@gamil.com"
+    }
+  ]
+
+
+}
